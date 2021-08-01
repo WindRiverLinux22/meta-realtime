@@ -18,6 +18,6 @@ do_install() {
      	install -m 0755 src/rt-app ${D}${bindir}
 }
 
-FILES_{PN} = "${bindir}/rt-app" 
+FILES:{PN} = "${bindir}/rt-app" 
 
 PARALLEL_MAKE = ""
