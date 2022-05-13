@@ -1,7 +1,7 @@
 SUMMARY = "Linux tool for measuring and fixing latency"
 HOMEPAGE = "http://www.latencytop.org/"
 
-LICENSE = "GPLv2"
+LICENSE = "GPL-2.0-only"
 LIC_FILES_CHKSUM = "file://latencytop.c;endline=23;md5=ee9ea9b1415356e5734adad4a87dc7fa"
 
 inherit pkgconfig

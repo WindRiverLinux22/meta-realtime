@@ -1,6 +1,6 @@
 DESCRIPTION = "rt-app is a test application that starts multiple periodic threads in order to simulate a real-time periodic load"
 SECTION = "devel"
-LICENSE = "GPLv2"
+LICENSE = "GPL-2.0-only"
 LIC_FILES_CHKSUM = "file://COPYING.in;endline=339;md5=e43fc16fccd8519fba405f0a0ff6e8a3"
 
 SRCREV = "17be4548c4260b80be623e0e1317e98a770dea7a"
